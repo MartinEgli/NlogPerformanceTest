@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NlogPerformanceTest", "NlogPerformanceTest\NlogPerformanceTest.csproj", "{1B9B8ABE-F915-43AD-8C9A-73093C515C36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B9B8ABE-F915-43AD-8C9A-73093C515C36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B9B8ABE-F915-43AD-8C9A-73093C515C36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B9B8ABE-F915-43AD-8C9A-73093C515C36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B9B8ABE-F915-43AD-8C9A-73093C515C36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F863848-2D6E-4C0E-B391-7C7D91EA044E}
+	EndGlobalSection
+EndGlobal
